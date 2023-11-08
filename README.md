@@ -30,7 +30,7 @@ The recommendation system is implemented using the following steps:
 
 Data Preprocessing: The dataset is cleaned and prepared for analysis, including removing duplicates, handling missing values, and formatting the data.
 
-Vectorizaton: converting text data into vectors for implementing cosine similarity methof
+Vectorizaton: converting text data into vectors for implementing cosine similarity method.
 
 Cosine Similarity: Cosine similarity is calculated for each pair of movies based on their features (overview, genres, keywords, cast, director).
 
